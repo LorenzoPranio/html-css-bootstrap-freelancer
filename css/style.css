@@ -6,6 +6,21 @@
 
 .content{
     height: 100px;
-    background-color: aqua;
     border: 1px solid black;
+}
+
+header,main,footer{
+    padding: 10px;
+}
+
+.bg-header{
+    background-color: darkblue;
+}
+
+.bg-main{
+    background-color: darkcyan;
+}
+
+.bg-footer{
+    background-color: darkslateblue;
 }
