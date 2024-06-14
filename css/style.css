@@ -17,6 +17,10 @@ header,main,footer{
     background-color: darkblue;
 }
 
+.bg-int{
+    background-color: cadetblue;
+}
+
 .bg-main{
     background-color: darkcyan;
 }
