@@ -9,10 +9,6 @@
     border: 1px solid black;
 }
 
-header,main,footer{
-    padding: 10px;
-}
-
 .bg-header{
     background-color: darkblue;
 }
