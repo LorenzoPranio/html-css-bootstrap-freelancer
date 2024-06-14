@@ -9,8 +9,20 @@
     border: 1px solid black;
 }
 
+.content-big{
+    height: 100px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.content-small{
+    height: 50px;
+    border: 1px solid black;
+}
+
 .bg-header{
     background-color: darkblue;
+    padding: 10px;
 }
 
 .bg-int{
@@ -23,4 +35,5 @@
 
 .bg-footer{
     background-color: darkslateblue;
+    padding: 10px;
 }
