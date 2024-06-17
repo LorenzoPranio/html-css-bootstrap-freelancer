@@ -102,3 +102,29 @@ body{
     font-size: 10px;
 }
 
+.t-color-grac{
+    color:rgb(26, 188, 156);
+}
+
+.logos-circle{
+    border: 1px solid white;
+    border-radius: 50%;
+    margin: 5px 10px;
+}
+
+.fa-facebook-f{
+   padding: 15px 18px;
+}
+
+.fa-google-plus-g{
+    padding: 15px 13px;
+}
+
+.fa-twitter{
+    padding: 15px;
+}
+
+.fa-linkedin-in{
+    padding: 15px 16px;
+}
+
