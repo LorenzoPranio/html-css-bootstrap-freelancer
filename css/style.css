@@ -17,23 +17,17 @@ body{
 }
 
 .content-big{
-    height: 150px;
     border: 1px solid black;
     padding: 20px;
 }
 
 .content-small{
-    height: 50px;
     border: 1px solid black;
 }
 
 .bg-header{
     background-color: rgb(44, 62, 80);
     padding: 10px;
-}
-
-.bg-int{
-    background-color: cadetblue;
 }
 
 .bg-main{
@@ -51,7 +45,7 @@ body{
 }
 
 .fa-star{
-    margin: 10px;
+    margin: 0px 10px 10px 10px;
     font-size: 20px;
 }
 
@@ -75,5 +69,12 @@ body{
 
 .content-img img{
     width: 100%;
+}
+
+.borded-text{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
 }
 
