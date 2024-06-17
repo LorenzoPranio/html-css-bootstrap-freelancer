@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .content{
     height: 100px;
     border: 1px solid black;
@@ -21,7 +25,7 @@
 }
 
 .bg-header{
-    background-color: darkblue;
+    background-color: rgb(44, 62, 80);
     padding: 10px;
 }
 
@@ -36,4 +40,8 @@
 .bg-footer{
     background-color: darkslateblue;
     padding: 10px;
+}
+
+.t-color-white{
+    color: white;
 }
