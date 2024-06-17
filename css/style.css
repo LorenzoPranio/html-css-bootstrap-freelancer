@@ -8,21 +8,8 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.content{
-    border: 1px solid black;
-}
-
-.content-img{
-    border: 1px solid black;
-}
-
 .content-big{
-    border: 1px solid black;
     padding: 20px;
-}
-
-.content-small{
-    border: 1px solid black;
 }
 
 .bg-header{
